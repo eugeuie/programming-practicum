@@ -51,7 +51,6 @@ def select_data_file():
 def get_path():
     global actors
     actor = actors[combo_box.current()]
-    print(actor)
     path = nx.shortest_path(actors_graph, actor, BACON)
     answer = 'Path from {} to {}:\n'.format(actor, BACON)
     for i in range(len(path) - 1):
