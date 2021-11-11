@@ -1,22 +1,21 @@
 # Программирование  
 
 ## О курсе
+
 ### Преподаватель
 Сазонова Софья Викторовна
 
-### Для зачета необходимо сдать
+### Для зачёта необходимо сдать
 - 2-3 программы за семестр
 - Доклад на выбранную тему
 
 ### Программа курса
-- Pandas
-- NumPy, MatPlotLib
-- Численные методы
-- Графические интерфейсы
-- NetworkX
+- [Pandas](https://pandas.pydata.org/docs/)
+- [NumPy](https://numpy.org/doc/stable/), [MatPlotLib](https://matplotlib.org/stable/contents.html)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [NetworkX](https://networkx.org/documentation/stable/reference/index.html)
 
 ### Интересующие темы
-
 - Объектно-ориентированное программирование, интерфейсы
 - Параллельное программирование, асинхронность, потоки, процессы, операционные системы
 - Backend: Django, Flask, FastAPI, AIOHTTP
@@ -33,17 +32,16 @@
 - Исключения в Python
 - Итераторы, генераторы в Python
 
-## Задания
-
-Задания отправлять в формате `filename.py` (несколько файлов архивом).
+## Задачи
 
 ### 1. Статистика, Pandas
+- [Задание](https://github.com/eugeuie/programming-practicum/blob/main/task_1_statistics_assignment.pdf)
+- [Решение](https://github.com/eugeuie/programming-practicum/blob/main/task_1_statistics.py)
 
-Для получения пути входных файлов использовать Config-файл (библиотека configparser).  
-Итоговую таблицу экспортировать в HTML.  
+### 2. Математическое моделирование, NumPy, MatPlotLib
+- [Задание](https://github.com/eugeuie/programming-practicum/blob/main/task_2_mathematical_modeling_assignment.pdf)
+- [Решение](https://github.com/eugeuie/programming-practicum/blob/main/task_2_mathematical_modeling.py)
 
-### 2. Математическое моделирование, NumPy
-
-Брать $N$ нечётным.  
-
-### 3. Графы, NetworkX
+### 3. Графы, NetworkX, Tkinter
+- [Задание](https://github.com/eugeuie/programming-practicum/blob/main/task_3_graphs_assignment.txt)
+- [Решение](https://github.com/eugeuie/programming-practicum/blob/main/task_3_graphs.py)
