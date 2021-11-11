@@ -96,10 +96,10 @@ def solve(Nx: int, Nt: int, dt: float, D: float, u_0: Callable, F: Callable, plo
 
 
 solve(
-    Nx=100,
-    Nt=200,
+    Nx=101,
+    Nt=501,
     dt=0.1,
-    D=0.01,
+    D=0.001,
     u_0=lambda x: np.sin(5 * x),
     F=lambda u, t: np.sin(0.1 * u + t),
 )
