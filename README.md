@@ -5,32 +5,23 @@
 ### Преподаватель
 Сазонова Софья Викторовна
 
-### Для зачёта необходимо сдать
-- 2-3 программы за семестр
-- Доклад на выбранную тему
-
 ### Программа курса
 - [Pandas](https://pandas.pydata.org/docs/)
 - [NumPy](https://numpy.org/doc/stable/), [MatPlotLib](https://matplotlib.org/stable/contents.html)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [NetworkX](https://networkx.org/documentation/stable/reference/index.html)
+- Concurrency
+- Backend
 
 ### Интересующие темы
 - Объектно-ориентированное программирование, интерфейсы
 - Параллельное программирование, асинхронность, потоки, процессы, операционные системы
-- Backend: Django, Flask, FastAPI, AIOHTTP
+- Backend: Django, Flask, FastAPI, aioHTTP
 - Паттерны проектирования, принципы проектирования
 - Устройство интерпретатора
 - Web scraping
 - Анализ данных, data mining, обработка изображений
 - Машинное обучение, нейронные сети
-
-### Возможные темы доклада
-
-- Функции в Python
-- Магические методы в Python
-- Исключения в Python
-- Итераторы, генераторы в Python
 
 ## Задачи
 
